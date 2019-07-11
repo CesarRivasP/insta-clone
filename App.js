@@ -6,8 +6,7 @@
  * @flow
  */
 
-import React, {Component} from 'react';
-import { StyleSheet, View} from 'react-native';
+import React, { Component } from 'react';
 import InstaClone from './src/insta-clone'
 
 type Props = {};
